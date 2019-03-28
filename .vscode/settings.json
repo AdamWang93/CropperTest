@@ -22,5 +22,7 @@
   "vetur.format.defaultFormatter.html": "js-beautify-html",
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
-  "html.format.wrapAttributes": "force"
+  "html.format.wrapAttributes": "force",
+  "prettier.semi": false,
+  "prettier.singleQuote": true
 }
